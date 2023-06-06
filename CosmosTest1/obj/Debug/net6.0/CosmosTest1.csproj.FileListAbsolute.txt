@@ -1,0 +1,12 @@
+C:\Users\Mindroma\source\repos\CosmosTest1\CosmosTest1\bin\Debug\net6.0\CosmosTest1.deps.json
+C:\Users\Mindroma\source\repos\CosmosTest1\CosmosTest1\bin\Debug\net6.0\CosmosTest1.dll
+C:\Users\Mindroma\source\repos\CosmosTest1\CosmosTest1\bin\Debug\net6.0\CosmosTest1.pdb
+C:\Users\Mindroma\source\repos\CosmosTest1\CosmosTest1\obj\Debug\net6.0\CosmosTest1.csproj.AssemblyReference.cache
+C:\Users\Mindroma\source\repos\CosmosTest1\CosmosTest1\obj\Debug\net6.0\CosmosTest1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mindroma\source\repos\CosmosTest1\CosmosTest1\obj\Debug\net6.0\CosmosTest1.AssemblyInfoInputs.cache
+C:\Users\Mindroma\source\repos\CosmosTest1\CosmosTest1\obj\Debug\net6.0\CosmosTest1.AssemblyInfo.cs
+C:\Users\Mindroma\source\repos\CosmosTest1\CosmosTest1\obj\Debug\net6.0\CosmosTest1.csproj.CoreCompileInputs.cache
+C:\Users\Mindroma\source\repos\CosmosTest1\CosmosTest1\obj\Debug\net6.0\CosmosTest1.dll
+C:\Users\Mindroma\source\repos\CosmosTest1\CosmosTest1\obj\Debug\net6.0\refint\CosmosTest1.dll
+C:\Users\Mindroma\source\repos\CosmosTest1\CosmosTest1\obj\Debug\net6.0\CosmosTest1.pdb
+C:\Users\Mindroma\source\repos\CosmosTest1\CosmosTest1\obj\Debug\net6.0\ref\CosmosTest1.dll
