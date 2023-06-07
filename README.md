@@ -1,5 +1,7 @@
 # CodenameMooses
 
+A simple C# program to test the CosmosOS kernel
+
 ## Running
 I'll soon provide an iso file in the releases tab. From source, you will need Visual Studio 2022 and Cosmos installed. I'm not sure if there will be any problems importing, but if there is, best solution is to just make a new project using Cosmos (C#) and put the Kernel.cs in there.
 
